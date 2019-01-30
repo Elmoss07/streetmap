@@ -1781,31 +1781,13 @@ body {
 .cid-rgCVS3RmTO .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rgCVUMBJYr {
-  background-image: url("../../../assets/images/mbr-1920x1243.jpg");
+.cid-rgEbsbzSKg {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
-.cid-rgCVUMBJYr .icons-media-container {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-rgCVUMBJYr .icons-media-container .mbr-iconfont {
-  font-size: 96px;
+.cid-rgEbsbzSKg DIV {
   color: #ffffff;
-}
-.cid-rgCVUMBJYr .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-rgCVUMBJYr .mbr-text {
-  color: #ffffff;
-}
-.cid-rgCVUMBJYr .card {
-  padding-bottom: 1.5rem;
 }
 .cid-rgDnLpq2pj {
   padding-top: 30px;
